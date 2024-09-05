@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Creator's Landing Page | Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://decodinglove.tv/' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -82,3 +82,12 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+features:
+  comment:
+      provider: 'giscus'
+      giscus:
+        repo: 'data-repo="geoheil/website-decodinglove-comments'
+        repo_id: 'R_kgDOMtTwHA'
+        category: 'General'
+        category_id: 'DIC_kwDOMtTwHM4CiOZa'

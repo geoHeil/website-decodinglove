@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: indigo
+  mode: dark
+  color: green
 
 # SEO
 marketing:
@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
+    description: 'Decoing our love to machines and humans'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -36,18 +36,18 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.jpg"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
-    show_search: true
-    show_theme_chooser: true
+      text: "Like and subscribe"
+      url: "https://youtube.decodinglove.tv"
+    show_search: false
+    show_theme_chooser: false
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} decodingLove'
 
 # Localization
 locale:

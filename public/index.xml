@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home | Creator&#39;s Landing Page | Hugo Theme</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Home</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Home</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>🎉 Beginning</title>
+      <link>http://localhost:1313/blog/introduction/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/introduction/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#about-us&#34;&gt;About us&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Have you ever struggled with repetitive tasks? We have.
+And I have found that programming can help me automate these tasks.
+This streaming presence and blog is about sharing my journey with you.
+I will show you how to automate the little things in your life by learning programming.&lt;/p&gt;
+&lt;h2 id=&#34;about-us&#34;&gt;About us&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://georgheiler.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Georg&lt;/a&gt; is a data expert and sharing his knowledge here.&lt;/p&gt;
+&lt;p&gt;You want to learn programming to get rid of nasty Excel errors and repetitive tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;We do not collect any data here.
+Only technically relevant cookies are set.&lt;/p&gt;
+&lt;p&gt;If you open content pages like youtube, tiktok, &amp;hellip; where videos and streams are hosted 3rd party platforms may collect massive data about you.
+If you open these links you agree to their terms and conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms of Service</title>
+      <link>http://localhost:1313/terms/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/terms/</guid>
+      <description>&lt;p&gt;We do not collect any data here.
+Only technically relevant cookies are set.&lt;/p&gt;
+&lt;p&gt;If you open content pages like youtube, tiktok, &amp;hellip; where videos and streams are hosted 3rd party platforms may collect massive data about you.&lt;/p&gt;
+&lt;p&gt;If you open these links you agree to their terms and conditions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
