@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Automate the anoying little things
+      title: Automate the annoying little things
       text: 🚀 Follw us and learn to code 🚀
       primary_action:
         text: Start learning and subscribe
