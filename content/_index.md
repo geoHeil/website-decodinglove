@@ -87,12 +87,13 @@ sections:
     content:
       items:
         - title: Learn how to build automation
-          text: from the basics up
+          text: from the basics up to reliable pipelines
           feature_icon: check
           features:
             - "No more Excel hickups"
             - "No more manual annoying steps"
             - "No prior programming knowledge required"
+            - "Clear observability of your automations"
           # Upload image to `assets/media/` and reference the filename here
           image: logo.jpg
           #build-website.png
