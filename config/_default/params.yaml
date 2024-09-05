@@ -12,8 +12,8 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
+    local_business_type: 'Streamer'
+    org_name: 'decodinglove'
     description: 'Decoing our love to machines and humans'
     twitter: 'GetResearchDev'
   analytics:
@@ -53,3 +53,13 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+
+
+features:
+  comment:
+      provider: 'giscus'
+      giscus:
+        repo: 'data-repo="geoheil/website-decodinglove-comments'
+        repo_id: 'R_kgDOMtTwHA'
+        category: 'General'
+        category_id: 'DIC_kwDOMtTwHM4CiOZa'

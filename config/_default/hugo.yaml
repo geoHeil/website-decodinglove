@@ -82,12 +82,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-features:
-  comment:
-      provider: 'giscus'
-      giscus:
-        repo: 'data-repo="geoheil/website-decodinglove-comments'
-        repo_id: 'R_kgDOMtTwHA'
-        category: 'General'
-        category_id: 'DIC_kwDOMtTwHM4CiOZa'
+  changefreq: monthly
