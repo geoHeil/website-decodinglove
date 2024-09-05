@@ -19,8 +19,8 @@ sections:
       secondary_action:
         text: Read the blog
         url: blog/
-      announcement:
-        text: "Announcing the release of version 1."
+      # announcement:
+      #   text: "Announcing the release of version 1."
         link:
           text: "Read more"
           url: "/blog/"
