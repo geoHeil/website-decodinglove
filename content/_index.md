@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Automate the annoying little things
-      text: 🚀 Follw us and learn to code 🚀
+      text: 🚀 Follw us and learn to solve data automation challenges with code 🚀
       primary_action:
         text: Start learning and subscribe
         url: https://youtube.decodinglove.tv
@@ -66,10 +66,10 @@ sections:
       items:
         - name: Get the basics right
           icon: magnifying-glass
-          description: Understand control structures and version control
+          description: Understand control structures and version control and also data structures
         - name: Dependency handling
           icon: bolt
-          description: Avoid running into any dependency issues with our tricks
+          description: Avoid running into any dependency issues without all the hassle
         - name: Easy and proven
           icon: sparkles
           description: From the basics of programming to data manipulation to full blown pipelines
