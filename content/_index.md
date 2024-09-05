@@ -62,7 +62,7 @@ sections:
     id: learningjourney
     content:
       title: Your learning journey
-      text: Learn to automate 🧱 with re-usable bulding blocks
+      text: Learn to automate 🧱 with re-usable bulding blocks from first principles
       items:
         - name: Get the basics right
           icon: magnifying-glass
