@@ -11,11 +11,11 @@ sections:
   - block: hero
     content:
       title: Automate the annoying little things
-      text: 🚀 Follw us and learn to solve data automation challenges with code 🚀
+      text: 🚀 Follow us and learn to solve data automation challenges with code 🚀
       primary_action:
         text: Start learning and subscribe
         url: https://youtube.decodinglove.tv
-        icon: rocket-launch
+        icon: tv
       secondary_action:
         text: Read the blog
         url: blog/
@@ -72,7 +72,7 @@ sections:
           description: Avoid running into any dependency issues without all the hassle
         - name: Easy and proven
           icon: sparkles
-          description: From the basics of programming to data manipulation to full blown pipelines
+          description: From the basics of programming to data manipulation to full blown pipelines around local-first modern data stack
         - name: CI/CD
           icon: code-bracket
           description: Understand the value of automation and testing
