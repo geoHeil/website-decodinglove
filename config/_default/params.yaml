@@ -57,9 +57,9 @@ locale:
 
 features:
   comment:
-      provider: 'giscus'
-      giscus:
-        repo: 'data-repo="geoheil/website-decodinglove-comments'
-        repo_id: 'R_kgDOMtTwHA'
-        category: 'General'
-        category_id: 'DIC_kwDOMtTwHM4CiOZa'
+    provider: 'giscus'
+    giscus:
+      repo: 'geoheil/website-decodinglove-comments'
+      repo_id: 'R_kgDOMtTwHA'
+      category: 'General'
+      category_id: 'DIC_kwDOMtTwHM4CiOZa'
