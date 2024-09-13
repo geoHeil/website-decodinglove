@@ -10,6 +10,10 @@ main:
     url: https://youtube.decodinglove.tv
     #url: /#features
     weight: 22
+  - name: Podcast
+    url: https://podcast.decodinglove.tv
+    #url: /#features
+    weight: 23
   - name: Learning journey
     url: /#learningjourney
     weight: 20
