@@ -15,17 +15,13 @@ tags:
   - overview
 ---
 
-Welcome 👋
-
-{{< toc mobile_only=true is_open=true >}}
-
 ## Overview
 
 For a quick motivation see:
 
 {{< youtube kh-MIyDMf1A >}}
 
-We discuss how [py.cafe](https://py.cafe/), [streamlit](https://streamlit.io/) and python [python](https://www.python.org/) can help you to get started with programming and data challenges.
+We discuss how [py.cafe](https://py.cafe/), [streamlit](https://streamlit.io/) and [python](https://www.python.org/) can help you to get started with programming and data challenges.
 
 ## Shownotes
 

@@ -6,7 +6,7 @@ date: 2024-10-29
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: Adobe Firefly'
+  caption: ''
 
 authors:
   - geoheil
@@ -14,10 +14,6 @@ authors:
 tags:
   - overview
 ---
-
-Welcome 👋
-
-{{< toc mobile_only=true is_open=true >}}
 
 ## Overview
 
