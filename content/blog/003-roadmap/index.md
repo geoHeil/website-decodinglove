@@ -23,11 +23,9 @@ Welcome 👋
 
 For a quick motivation see:
 
-{{< youtube MIyDMf1A >}}
+{{< youtube kh-MIyDMf1A >}}
 
 We discuss how [py.cafe](https://py.cafe/), [streamlit](https://streamlit.io/) and python [python](https://www.python.org/) can help you to get started with programming and data challenges.
-
-cute python snake drinking cofee besides a mysterios water stream
 
 ## Shownotes
 

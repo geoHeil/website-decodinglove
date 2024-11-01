@@ -30,7 +30,7 @@ I will show you how to automate the little things in your life by learning progr
 
 The following web page is a great April`s fool joke about the not satisfactory state of a lot of automation and data problems: https://dbt-excel.com In fact, you can also watch their video here:
 
-{{< youtube cWKyfL8RJEs }}
+{{< youtube cWKyfL8RJEs >}}
 
 In the coming blog posts and video life streams, I will show you how to automate the little things in your life.
 We will focus on the basics of programming first.
