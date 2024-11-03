@@ -1,6 +1,6 @@
 ---
 title: Roadmap
-summary: Dinas steps towards becoming an expert with data
+summary: Dina's steps towards becoming an expert with data
 date: 2024-10-30
 
 # Featured image
@@ -22,6 +22,8 @@ For a quick motivation see:
 {{< youtube kh-MIyDMf1A >}}
 
 We discuss how [py.cafe](https://py.cafe/), [streamlit](https://streamlit.io/) and [python](https://www.python.org/) can help you to get started with programming and data challenges.
+
+And we show how you can achieve automation of tedious processes with very litle code.
 
 ## Shownotes
 

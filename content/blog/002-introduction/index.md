@@ -24,7 +24,7 @@ In fact I will teach her - and also you how to do this.
 This streaming presence and blog is about sharing how to get started with programming focusing on automation and data challenges.
 I will show you how to automate the little things in your life by learning programming - and get more time back for interesting things - or to focus on more challenging and rewarding problems.
 
-The following web page is a great April`s fool joke about the not satisfactory state of a lot of automation and data problems: https://dbt-excel.com In fact, you can also watch their video here:
+The following web page is a great April`s fool joke about the not satisfactory state of a lot of automation and data problems: [dbt-excel.com](https://dbt-excel.com) In fact, you can also watch their video here:
 
 {{< youtube cWKyfL8RJEs >}}
 
