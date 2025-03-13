@@ -25,3 +25,13 @@ Welcome 👋
 The first introduction episode is here: https://podcast.decodinglove.tv/episode/post1/
 
 {{< youtube rz--o3rDbS8 >}}
+
+And actually why this name - Decoding Love? 
+Well it is all about:
+
+- Both of us
+- Coding
+- And love
+- Our love
+- And the lovely attention to detail when coding
+- And learning from each other
